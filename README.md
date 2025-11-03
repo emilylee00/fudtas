@@ -1,1 +1,10 @@
-# fudtasC:\Users\tatae\OneDrive\Рабочий стол\emilukek\index.htmlC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-09-27_14-44-53.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-38-56.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-51-41.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-52-36.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-52-55.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-57-03.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-57-09.jpgC:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-11-03_15-46-28.jpg
+# fudtas
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\index.html
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-09-27_14-44-53.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-38-56.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-51-41.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-52-36.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-52-55.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-57-03.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-10-29_15-57-09.jpg
+C:\Users\tatae\OneDrive\Рабочий стол\emilukek\photo_2025-11-03_15-46-28.jpg
